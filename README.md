@@ -5,3 +5,9 @@ A Python-based child nutrition monitoring and smart meal recommendation system.
 
 NutriBuddy is a Python-based child nutrition project designed to make
 nutrition information simple, interactive, and easy to understand.
+
+## Planned Features
+
+- Nutrition tracking
+- Healthy meal recommendations
+- Child-friendly nutrition information
