@@ -12,4 +12,5 @@ nutrition information simple, interactive, and easy to understand.
 - Healthy meal recommendations
 - Child-friendly nutrition information
 
-YOLO achievement test 🚀
+YOLO achievement test
+🚀
